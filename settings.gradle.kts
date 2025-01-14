@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ShapeAndroid"
+rootProject.name = "shape-android"
 include(":app")
